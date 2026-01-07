@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "SHOUT OUT",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-01-07T10:34:59.277562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shout Out To The Real",
+      "artist": "DJ Khaled feat. Meek Mill, Ace Hood & Plies",
+      "has_synced": true,
+      "path": "select/01_Shout_Out_To_The_Real_DJ_Khaled_feat._Meek_Mill,_Ace_Hood_&_Plies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shout Out to the Real (feat. Meek Mill, Ace Hood, Plies)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/02_Shout_Out_to_the_Real_(feat._Meek_Mill,_Ace_Hood,_Plies)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shout Out to My Ex",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/03_Shout_Out_to_My_Ex_Little_Mix.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shout Out to My Ex (Live at the BRITs)",
+      "artist": "Little Mix",
+      "has_synced": false,
+      "path": "select/04_Shout_Out_to_My_Ex_(Live_at_the_BRITs)_Little_Mix.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shout Out",
+      "artist": "SHINee",
+      "has_synced": true,
+      "path": "select/05_Shout_Out_SHINee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "악 Shout Out (Explicit)",
+      "artist": "SHINee",
+      "has_synced": true,
+      "path": "select/06_악_Shout_Out_(Explicit)_SHINee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shout Out to My Ex",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/07_Shout_Out_to_My_Ex_Little_Mix.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shout Out to My Ex (Steve Smart Epic Edit)",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/08_Shout_Out_to_My_Ex_(Steve_Smart_Epic_Edit)_Little_Mix.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SHOUT OUT",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/09_SHOUT_OUT_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shout Out Loud",
+      "artist": "Amos Lee",
+      "has_synced": false,
+      "path": "select/10_Shout_Out_Loud_Amos_Lee.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shout Out",
+      "artist": "D.O.A.",
+      "has_synced": false,
+      "path": "select/11_Shout_Out_D.O.A..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHOUT OUT",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_SHOUT_OUT_ENHYPEN.txt"
+    }
+  ]
+}
